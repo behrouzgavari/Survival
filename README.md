@@ -1,2 +1,2 @@
 # Survival
-Q&amp;A game which runs through terminal
+Q&A game that runs through the terminal
